@@ -1,26 +1,23 @@
-# Hi, I'm Sérgio 👋
+Hi, I'm Sérgio 👋
 
-Operations professional (6+ years: SAP, SOP development, team coordination) moving into **Data Engineering**. I build pipelines in public and document what I learn along the way.
+Data Engineer focused on building data pipelines and analytics systems
+with Python, SQL, PostgreSQL, PySpark and Databricks.
 
-📍 Portugal · 🔗 [LinkedIn](https://www.linkedin.com/in/sérgio-silvestre-239406250/)
+🔭 Currently building
+• Data pipelines with Python + PostgreSQL
+• Data Engineering projects with Docker & Terraform
+• Medallion architectures with Databricks/PySpark
 
-## Featured projects
+📚 Currently learning
+• Docker
+• Terraform
+• dbt
+• Workflow orchestration
+• Cloud data platforms
 
-| Project | What it does | Stack |
-|---|---|---|
-| [global-top50-pipeline](https://github.com/ssilvestre95/global-top50-pipeline) | Hourly ingestion of price data for the world's 50 largest listed companies into PostgreSQL | Python · yfinance · PostgreSQL |
-| [anac-vra-medallion-databricks](https://github.com/ssilvestre95/anac-vra-medallion-databricks) | Medallion (bronze/silver/gold) pipeline on Brazilian flight data to analyse delays and punctuality | Databricks · PySpark · SQL |
-| [data-eng-zoomcamp](https://github.com/ssilvestre95/data-eng-zoomcamp) | Homework and notes from DataTalks.Club's Data Engineering Zoomcamp (2026) | Docker · Terraform · SQL · Python |
+🎯 Goal
+Transitioning into a Data Engineering / Analytics Engineering role.
 
-## Tech
-
-**Working with:** Python · SQL · PostgreSQL · PySpark · Databricks · Git/GitHub
-**Learning now:** Docker · Terraform · workflow orchestration · dbt
-
-## Background
-
-CS50x (Harvard) · Python for Everybody (University of Michigan) · IBM Applied Software Engineering Fundamentals · AWS Cloud Practitioner Essentials (course)
-
-## What I'm working on
-
-Building the portfolio above and following the Data Engineering Zoomcamp, with the goal of landing a junior Data Engineer / Analytics Engineer role.
+🛠️ Tech
+Python · SQL · PostgreSQL · PySpark · Databricks
+Docker · Terraform · Git · GitHub
